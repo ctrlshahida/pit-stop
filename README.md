@@ -24,9 +24,6 @@ Getting Started
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/pit-stop.git
-cd pit-stop
-
 2. Install Dependencies
 
 npm install
@@ -49,18 +46,6 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 4. Run the Development Server
 
 npm start
-
-Contribution
-
-Fork the repository.
-
-Create a feature branch (git checkout -b feature-name).
-
-Commit your changes (git commit -m 'Added new feature').
-
-Push to the branch (git push origin feature-name).
-
-Open a pull request.
 
 License
 
