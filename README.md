@@ -26,17 +26,6 @@ npm install
 ```
 
 ### 3. Set Up Firebase
-1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/).
-2. Enable Firestore, Authentication, and Storage.
-3. Copy the Firebase config and create a `.env` file:
-```env
-REACT_APP_FIREBASE_API_KEY=your_api_key
-REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
-REACT_APP_FIREBASE_PROJECT_ID=your_project_id
-REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-REACT_APP_FIREBASE_APP_ID=your_app_id
-```
 
 ### 4. Run the Development Server
 ```sh
