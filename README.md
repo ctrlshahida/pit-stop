@@ -1,4 +1,4 @@
-# pit-stop
+# Pit Stop
 
 A community-driven platform for car enthusiasts to post local meetups, rare car sightings, and events with geotags.
 
